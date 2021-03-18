@@ -10,6 +10,7 @@ To see why, assume for example that we want to multiply the numbers 123 and 456.
 We see that for two integers of length 3, this multiplication requires 3 × 3 = 9 operations, hence its complexity is O(n^2). 
 
 What about this one?
+
 ![image](https://user-images.githubusercontent.com/57549021/111580860-48467a80-87de-11eb-96b2-dfe3274769d3.png)
 
 Executing an O(n^2) algorithm for huge n is very costly, so that is why it is preferred to use more efficient algorithms when multiplying huge integers.
